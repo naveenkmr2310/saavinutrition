@@ -426,5 +426,5 @@ export const testimonal = [
 ]
 export const pic1="../images/bg4.jpg"
 export const pic2="../images/B6.jpg"
-export const pic3="../images/b4.jpg"
+export const pic3="../images/B4.jpg"
 
