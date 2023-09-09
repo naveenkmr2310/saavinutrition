@@ -91,6 +91,7 @@ p {
   background-size: cover;
   background-attachment: fixed;
   position: absolute;
+  background-position: center center;
   top: 0;
   left: 0;
   z-index: -1;
@@ -105,7 +106,7 @@ p {
   /* background-image: url("../public/images/back.webp"); */
   background-image: url("../public/images/blog2.jpg");
   background-size: cover;
-  background-position:right;
+  background-position:right center;
   background-attachment: fixed;
   position: absolute;
   top: 0;
@@ -184,7 +185,7 @@ p {
     grid-template-columns: repeat(1, 1fr);
   }
   .back {
-    background-position: center;
+    background-position: center center;
     padding-top: 33vh;
     /* padding-left: 5vh; */
     height: 80vh; 
@@ -249,7 +250,7 @@ p {
     grid-template-columns: repeat(2, 1fr);
   }
   .back {
-    background-position: center;
+    background-position: center center;
     padding-top: 40vh;
     height: 80vh; 
     text-align: center;
