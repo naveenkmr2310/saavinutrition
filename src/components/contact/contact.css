@@ -1,0 +1,94 @@
+.contacts iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+.contacts .left {
+  /* padding: 30px; */
+  background-color: #f8f8f8;
+
+}
+.contacts .right {
+  padding: 50px;
+  background-color: #f8f8f8;
+
+}
+.contacts h1 {
+  font-size: 30px;
+  font-weight: 400;
+}
+.contacts p {
+  color: grey;
+}
+.contacts .items {
+  margin: 30px 0;
+}
+.contacts .box p {
+  font-size: 17px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+.contacts textarea,
+.contacts input {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 15px;
+  outline: none;
+  border: 1px solid grey;
+}
+form .flexSB input:nth-child(1) {
+  margin-right: 10px;
+}
+.contacts h3 {
+  margin-top: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.contacts span {
+  color: #1eb2a6;
+  font-weight: 600;
+  font-size: 15px;
+  word-spacing: 5px;
+}
+.padd{
+  padding-bottom: 50px;
+}
+.flex{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.contacts{
+  margin-top: 70vh;
+  background-color: #f8f8f8;
+
+}
+@media screen and (max-width: 768px) {
+  .contacts .left {
+    padding: 50px 10px;
+  
+  }
+  .contacts .right {
+    padding: 10px;
+  
+  }
+  .contacts .container {
+    flex-direction: column;
+  }
+  .contacts iframe {
+    height: 50vh;
+  }
+  .contacts .row {
+    width: 100%;
+  }
+  .contacts{
+    margin-top: -10vh;
+    background-color: #f8f8f8;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px){
+  .contacts{
+    background-color: #f8f8f8;    
+  }
+}
+
