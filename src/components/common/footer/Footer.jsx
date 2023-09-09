@@ -68,7 +68,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | Template by Naveen 
+          Copyright ©2023 All rights reserved | Template by Naveen 
         </p>
       </div>
     </>
