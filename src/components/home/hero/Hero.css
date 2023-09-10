@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("../../../../public/images/bg5.jpg") ;
+  background-image: url("../../../../public/images/bg5-1.jpg") ;
   background-size: cover;
   /* background-attachment: fixed; */
   /* background-position: center center; */
@@ -38,7 +38,7 @@
   }
   .hero {
     /* background-position: center; */
-    background-image: url("../../../../public/images/bg5-small.jpg") ;
+    background-image: url("../../../../public/images/bg5-small-1.jpg") ;
     padding-top: 50%;
     /* background-size: 100% auto; */
     height: 100vh;
@@ -56,6 +56,6 @@
 @media screen and (min-width: 768px) and (max-width: 1024px){
   .hero {
     padding-top: 45%;
-    background-image: url("../../../../public/images/bg5-small.jpg") ;
+    background-image: url("../../../../public/images/bg5-small-1.jpg") ;
   }
 }
