@@ -320,14 +320,14 @@ export const blog = [
     date: "MAY. 15, 2022",
     title: "6 Common mistakes you make when “Dieting”",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/bg4.jpg",
+    cover: "../images/blog/bg4.jpg",
   },
   {
     id: 6,
     date: "JAN. 18, 2021",
     title: "8 Great Benefits of Almonds",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/B6.jpg",
+    cover: "../images/blog/B6.jpg",
   },
   
   {
@@ -335,96 +335,96 @@ export const blog = [
     date: "DEC. 14, 2022",
     title: "The Complete Pocket Guide to Indian Diabetes",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/B7.jpg",
+    cover: "../images/blog/B7.jpg",
   },
   {
     id: 4,
     date: "JAN. 02, 2022",
     title: "How to increase less flow of periods in Indians?",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b4.webp",
+    cover: "../images/blog/B9.jpg",
   },
   {
     id: 2,
     date: "API. 25, 2022",
     title: "Package Food marketed “Healthy” indians should never eat",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b2.webp",
+    cover: "../images/blog/bg3.jpg",
   },
   {
     id: 1,
     date: "JAN. 18, 2021",
     title: "Natural Methods Of Conception",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b1.webp",
+    cover: "../images/blog/B8.jpg",
   },
 ]
 export const testimonal = [
   {
     id: 1,
-    name: "ROGER SCOTT",
+    name: "JOHN DOE",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 2,
-    name: "ROGER SCOTT",
+    name: "JOHN DOE",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t2.webp",
   },
   {
     id: 3,
-    name: "ROGER SCOTT",
+    name: "JOHN DOE",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t3.webp",
   },
   {
     id: 4,
-    name: "ROGER SCOTT",
+    name: "JOHN DOE",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 5,
-    name: "ROGER SCOTT",
+    name: "JOHN DOE",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t2.webp",
   },
   {
     id: 6,
-    name: "ROGER SCOTT",
+    name: "JOHN DOE",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t3.webp",
   },
   {
     id: 7,
-    name: "ROGER SCOTT",
+    name: "JOHN DOE",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 8,
-    name: "ROGER SCOTT",
+    name: "JOHN DOE",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t2.webp",
   },
   {
     id: 9,
-    name: "ROGER SCOTT",
+    name: "JOHN DOE",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t3.webp",
   },
 ]
-export const pic1="../images/bg4.jpg"
-export const pic2="../images/B6.jpg"
-export const pic3="../images/B4.jpg"
+export const pic1="../images/blog/bg4.jpg"
+export const pic2="../images/blog/B6.jpg"
+export const pic3="../images/blog/B4.jpg"
 

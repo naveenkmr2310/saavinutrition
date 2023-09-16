@@ -47,7 +47,7 @@ const Testimonal = () => {
                       <i className='fa fa-quote-left icon'></i>
                     </div>
                     <div className='name'>
-                      <h2>{val.name}-{val.id} </h2>
+                      <h2>{val.name} </h2>
                       <span>{val.post}</span>
                     </div>
                   </div>
